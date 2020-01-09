@@ -1,0 +1,16 @@
+{
+    "name": "Vehicle Tracker",
+    "short_name": "Tracker",   
+    "start_url": "index.html",    
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#7661ac",
+    "background_color": "#7661ac",
+    "display": "standalone"
+}
